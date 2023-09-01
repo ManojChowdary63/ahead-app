@@ -42,7 +42,7 @@ const HeroSection = () => {
                 transition={{ duration: 0.8, delay: 0.8 }}
                 className="w-full h-72 flex items-center justify-center "
               >
-                <Image src="/images/image.svg" alt="App Snapshot" width={600} height={450} />
+                <Image src="/images/Image.svg" alt="App Snapshot" width={600} height={450} />
               </motion.div>
             </div>
           </motion.div>
